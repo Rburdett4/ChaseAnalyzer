@@ -1,6 +1,6 @@
 # Chase Checking Account Spending Analyzer
 
-I wanted a drilled-down summary of my spending with Chase; however, it doesn't seem to support that if you aren't a business user. So, I'm opting to make my own!  
+I wanted a drilled-down summary of my spending with Chase; however, it doesn't seem to support that if you aren't a business user. So, I'm opting to make my own.
   
 **Current Version:** < 1.0
   
